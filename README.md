@@ -5,7 +5,7 @@
 <br>
 <br>
 
-#💻 I can work with ...
+# 💻 I can work with ...
 
 | Technologies | Backend | Frontend |
 |:--:|:--:|:--:|
